@@ -2,10 +2,6 @@
  <h3 align="center">🧑🏻‍💻 学习中... 🧑🏻‍💻</h3>
 </p>
 
-## 你好，这里是Cherish✋
-
-- 具身智能\vla\python\flask
-
 #### 论文
 
 - 2026 || IJCV《Rethinking Long-Tail for Image Aesthetics Assessment》，第二作者，[【paper】](https://github.com/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment/blob/main/IJCV2026%20-%20Rethinking%20Long-Tail%20for%20Image%20Aesthetics%20Assessment.pdf)，[【project】](https://github.com/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment)
